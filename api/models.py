@@ -1,8 +1,8 @@
 from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
-import uuid
-from django.utils.text import slugify
+# import uuid
+# from django.utils.text import slugify
 # Create your models here.
 
 class UserProfile(models.Model):
