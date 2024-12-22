@@ -11,4 +11,4 @@ sqlparse==0.5.1
 tzdata==2024.2
 urllib3==2.2.3
 uuid==1.30
-vercel==0.2.1
+whitenoise==6.8.2
